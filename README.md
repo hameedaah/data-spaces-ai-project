@@ -172,6 +172,7 @@ The notebook produces visualizations such as:
 
 
 4. **Correlation matrix**
+   
    <img width="598" height="479" alt="image" src="https://github.com/user-attachments/assets/ed1d353e-70b1-4685-bd2b-1eda9da771e6" />
    
    Shows relationships between consumption, wind generation, solar generation, renewable generation, and renewable share.
