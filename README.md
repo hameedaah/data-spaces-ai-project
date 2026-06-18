@@ -157,15 +157,21 @@ The notebook performs the following steps:
 The notebook produces visualizations such as:
 
 1. **Siloed provider view**  
+   <img width="1090" height="790" alt="image" src="https://github.com/user-attachments/assets/25231f22-0c85-49a3-a46f-e5d14739d94d" />
    Shows that each provider only sees its own data before sharing.
 
+
 2. **Combined data-space view**  
+   <img width="1189" height="489" alt="image" src="https://github.com/user-attachments/assets/f454babe-cd8e-4763-94c4-e1c5c393d742" />
    Shows electricity consumption compared with wind and solar generation after data sharing.
 
-3. **Monthly renewable share**  
+
+3. **Monthly renewable share**
+   <img width="1189" height="390" alt="image" src="https://github.com/user-attachments/assets/a8586626-fcdc-4348-8af1-488531d51c7b" />
    Shows the share of electricity consumption covered by renewable generation.
 
-4. **Correlation matrix**  
+4. **Correlation matrix**
+   <img width="598" height="479" alt="image" src="https://github.com/user-attachments/assets/ed1d353e-70b1-4685-bd2b-1eda9da771e6" />
    Shows relationships between consumption, wind generation, solar generation, renewable generation, and renewable share.
 
 ## Key Insight
